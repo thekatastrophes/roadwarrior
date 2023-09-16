@@ -16,4 +16,6 @@ Backend Frameworks: Given that most of the microservices involve CRUD (Create, R
 
 Email Integrator: We recommend utilizing existing APIs for email retrieval and parsing. In the event that custom development is necessary, you can consider alternative development with Python in combination with mail parser libraries and natural language processing (NLP) libraries such as spaCy or NLTK.
 
+Data Analytics: we recommend leveraging cloud-based analytics tools like AWS Athena, Google Data Studio, or Azure Machine Learning.
+
 Testing and Quality Analysis: As the rich user experience and seamless rendering on all devices is essential for this application, we recommend using tools that enable cross platform and cross browser automation testing such as BrowserStack and others.
