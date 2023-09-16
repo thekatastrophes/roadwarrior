@@ -1,5 +1,19 @@
 # Components
 
-[Home](../README.md) > [Solution Design](../README.md#solution-design) > Components ( [Previous](./1-actors.md) / [Next](./3-microservices.md) )
+[Home](../README.md) > [Solution Design](../README.md#solution-design) > Components ( [Previous](./1-actors.md) / [Next](./3-architecture.md) )
 
-...
+| Component | Description |
+| --------- | ----------- |
+| User Profile | The User Profile lets the Traveler customize their account, email settings, and preferences. They can choose which emails to poll, filter, and whitelist, as well as their preferred support agency and notifications. The user profile will also be used for managing user subscription and will utilize 3rd party payment providers for the web application and the service subscriptions from google play and apple store. |
+| E-Mail Integrator | The E-mail Integrator retrieves, processes, and extracts data from trip-related mails based on user profile settings. It uses language models in different languages to identify the following data: Related Trip, dates, location, reservation type, status, code, and details.<br><br>*Common interface for push and pull, abstraction.* |
+| Trip Coordinator | Trip Coordinator groups reservations under a trip, extracts trip-level details like Title and dates, and closes the trip when done. It also lets the traveler manually create and change trips. |
+| Reservation Coordinator | Reservation Coordinator creates and updates the reservations, and feeds in the notification service. |
+| Travel System Integrator | Travel System Integrator serves as an interface for communicating with external systems like APOLLO, SABRE, Travel Agencies’ APIs etc.<br><br>*Common interface for push and pull, abstraction.* |
+| Notification Sender | The Notification Server listens to the relevant events in the system, such as trip creation, reservation confirmation, or cancellation. Based on the user preferences, it sends in-app notifications or push notifications to mobile devices via the native mobile services (Google, iPhone, etc.). |
+| Analytics Service | The Analytics Service is responsible for listening all Trip and Reservation events. It stores analytics data in a non-relational data store, optimized for large-scale reporting. While it retains detailed information for revenue analysis, specific trip data remains anonymous. Any user linkage to external providers requires customer approval (e.g., advertiser ID). The component ensures responsiveness by being co-located with the infrastructure. |
+| Report Generator | The Report Generator takes pre-analysed and prepared data, transforms it, and delivers it to the user interface. It enables users to apply filters and drill down into the data, making it easier to access valuable insights and make informed decisions. |
+| Shared Log Analytics | The Shared Log Analytics component plays a crucial role in maintaining the reliability and stability of our event-driven architecture. It serves as the safety net for processing events, monitors the incoming events, detect error, logs relevant details for troubleshooting and sends notifications. |
+| API Gateway | The API Gateway will facilitate the communication between the web application and mobile application and the underlying microservices. It will streamline the API interactions and will ensure security, scalability, and efficient data flow. |
+| Trip Details Sharer | The Trip Details Sharer component is a user-friendly feature integrated into the UI, allowing users to effortlessly share trip details on their preferred social media platforms as well enabling other users to view their trip details in the Road Warrior. |
+| HelpMe | HelpMe component is a user-friendly feature integrated into the UI that will contact a 3rd party system outside the Road Warrior. |
+| Web Application / Mobile Application | The web / mobile application allows the user to sign up and sign in, can access trip details, and manage their reservations and preferences. It also allows guest users to view trips shared with them.<br>Each HTTP request flows through the API Gateway to each of the underlying microservices that serve those requests. |

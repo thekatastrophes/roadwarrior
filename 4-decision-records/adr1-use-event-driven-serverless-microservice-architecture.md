@@ -1,10 +1,10 @@
 # ADR1: Use Event Driven Serverless Microservice Architecture
 
-[Home](../README.md) > [Decision Records](../README.md#decision-records) > ADR1: Use Event Driven Serverless Microservice Architecture ( [Previous](../3-solution-design/7-security.md) / [Next](./adr2-use-an-existing-email-processing-service.md) )
+[Home](../README.md) > [Decision Records](../README.md#decision-records) > ADR1: Use Event Driven Serverless Microservice Architecture ( [Previous](../3-solution-design/8-security.md) / [Next](./adr2-use-an-existing-email-processing-service.md) )
 
 ## Status
 
-* Adopted (14/01/2023)
+* Adopted (14/09/2023)
 * Proposed (14/09/2023)
 
 ## Context
