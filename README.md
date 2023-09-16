@@ -1,4 +1,4 @@
-# Architectural Katas 2023 - The Katastrophes
+# Architectural Katas 2023 - The Kata-strophes
 
 ![Banner for the Road Warrior app, the R from road is an image of a road, and the W from warrior is two pair of crossed swords.](./assets/road-warrior-banner.png)
 
