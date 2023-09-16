@@ -13,6 +13,6 @@ Road Warrior is not just a travel dashboard; it's a comprehensive travel compani
 | # | Context | Details |
 | - | ------- | ------- |
 | 1 | Seamless Integration | Road Warrior will seamlessly integrate with existing travel systems, including SABRE and APOLLO, ensuring that users have access to comprehensive travel information from various sources. |
-| 2 | Travel Agency Support | We will establish partnerships with preferred travel agencies to facilitate quick problem resolution for users, ensuring a smooth and stress-free travel experience. |
+| 2 | Travel Agency Support | We will integrate with preferred travel agencies to facilitate quick problem resolution for users, ensuring a smooth and stress-free travel experience. |
 | 3 | International Reach | Road Warrior will be accessible and functional worldwide, catering to the needs of travelers across different regions and time zones. |
 | 4 | Target Market | Road Warrior focuses on business trips, but also can be used for personal trips. Revenue will be generated from a subscription, but it will be important to have collaboration with travel companies to identify additional revenue opportunities. |
