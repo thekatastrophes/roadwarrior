@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Solution Design](../README.md#solution-design) > Microservices ( [Previous](./3-architecture.md) / [Next](./5-event-broker.md) )
 
-Considering the architectural aspects, we previously discussed—scalability, interoperability, availability, and feasibility—we propose the use of serverless microservices as described in [ADR1](../4-decision-records/adr1-use-event-driven-serverless-microservice-architecture.md).
+Considering the architectural aspects, we previously discussed—scalability, interoperability, availability, and feasibility—we propose the use of serverless microservices as described in [ADR1: Use Event Driven Serverless Microservice Architecture](../4-decision-records/adr1-use-event-driven-serverless-microservice-architecture.md).
 
 The following criteria was used to determine when a certain piece of functionality is to be considered a Microservice:
 
