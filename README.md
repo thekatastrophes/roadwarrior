@@ -29,7 +29,7 @@ We're the living embodiment of organized chaos – our meetings might seem like 
 
 ### Solution Design
 
-* [Actors](./3-solution-design/1-actors.md)
+* [Actors and Actions](./3-solution-design/1-actors.md)
 * [Components](./3-solution-design/2-components.md)
 * [Architecture Design](./3-solution-design/3-architecture.md)
 * [Security](./3-solution-design/4-security.md)
