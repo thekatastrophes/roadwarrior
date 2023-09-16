@@ -5,7 +5,7 @@
 We have based the architectural design of our proposed solution on several key factors that align with the unique characteristics of the startup venture and the product's nature. These factors, in conjunction with our driving architectural characteristics, have steered our decision-making process. 
 Here are the architectural styles we have selected and the additional four factors that have significantly influenced our choice:
 
-**Architectural Style: Event-Driven Serverless Microservices**
+#Architectural Style: Event-Driven Serverless Microservices
 
 - **Evolutionary Architecture:** Our architecture prioritizes adaptability to swift market changes, maintaining agility, and minimizing disruptions during development while providing a strong foundation for growth.
 - **Cloud Native:** We've chosen a cloud-native approach to offer simplicity, scalability, and cost savings, allowing us to focus on our core business and adapt to changing needs without substantial upfront infrastructure investments.
