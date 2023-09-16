@@ -4,8 +4,11 @@
 
 Welcome to The Katastrophes team submission to the Road Warrors Kata run by O'Reilly during [September 2023](https://learning.oreilly.com/live-events/architectural-katas/0636920097101/0636920097100/).
 
-## Members
+## The Team
+We are the one-of-a-kind ensemble known as Team Kata-strophes. We're like a puzzle where all the pieces are slightly bent, but miraculously, it still forms a beautiful picture.
+We're the living embodiment of organized chaos – our meetings might seem like a rollercoaster ride through a maze of tangents, but we always manage to reach our destination.  You’ll see that being a little dysfunctional can be incredibly functional – and a whole lot of fun! 
 
+Members:
 * [Sofija Gugoska Babacheska](https://github.com/sofijab)
 * Filip Dimitrievski
 * [Craig Guest](https://github.com/craigguest)
