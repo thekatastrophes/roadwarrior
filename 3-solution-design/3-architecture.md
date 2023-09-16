@@ -32,15 +32,15 @@ Given the above principles, the following are identified as Microservices:
 
 ## Event Broker
 
-The Event Broker is a central component in event-based architecture responsible for receiving, managing, and routing events within a system. The application itself does not contain complex workloads that require orchestration, nor the services exchange messages so there is no need for a Message Bus or similar.
+The Event Broker will be a central component in our event-based architecture responsible for receiving, managing, and routing events within a system. The application itself does not contain complex workloads that require orchestration, nor exchange messages. The architecture enables deploying one or multiple event brokers to ensure elasticity, scalability, and fault-tolerance during operations.
 
 ## Data Storage
 
-Each microservice has its own database, ensuring data isolation as well as maintain the bounded context, preserve the autonomy (changes of the data models and schemes do not affect other microservices), each microservice can scale separately, and if needed each microservice can have different database type (relational, noSQL or other).
+Each microservice has its own database, ensuring data isolation as well as maintaining the bounded context, preserving autonomy (changes in the data models and schemes do not affect other microservices), each microservice can scale separately, and if needed each microservice can have different database type (relational, noSQL or other). All microservices will use noSQL databases.
 
 ## Front End Framework
 
-The web application and the mobile application will be developed using a front-end framework that enables developing hybrid mobile applications, as explained in [AD3: Use hybrid technology for mobile app](../4-decision-records/adr3-use-hybrid-technology-for-mobile-app.md).
+The web application and the mobile application will be developed using a front-end framework that enables development of hybrid mobile applications, as explained in [AD3: Use hybrid technology for mobile app](../4-decision-records/adr3-use-hybrid-technology-for-mobile-app.md).
 
 The user interface will be compliant with the latest W3C standards. It will be based on responsive design, that serves the content to multiple devices from the same codebase, making it easily maintainable. The application will be identical on the latest version of the most used browsers and mobile phones.
 
