@@ -21,38 +21,31 @@ Welcome to The Katastrophes team submission to the Road Warrors Kata run by O'Re
 
 ### Architectural Approach
 
-* Characteristics
-* Architectural Style
+* [Characteristics](./2-architectural-approach/1-characteristics.md)
+* [Style](./2-architectural-approach/2-style.md)
 
 ### Solution Design
 
-* Systems Design
-  * Actors
-  * Components
-* Architecture Design
-  * Microservices
-  * Event Broker
-  * Data Storage
-  * Front End Technology
-  * Security
+* [Actors](./3-solution-design/1-actors.md)
+* [Components](./3-solution-design/2-components.md)
+* [Microservices](./3-solution-design/3-microservices.md)
+* [Event Broker](./3-solution-design/4-event-broker.md)
+* [Data Storage](./3-solution-design/5-data-storage.md)
+* [Front End Technology](./3-solution-design/6-front-end-technology.md)
+* [Security](./3-solution-design/7-security.md)
 
 ### Decision Records
 
-* ADR1
-* ADR2
 * ...
 
 ### Additional Considerations
 
-* Deployment and Operation
-* Technology Stack
-* Engineering Practicies
-* MVP
-
-## Resources
-
-* ...
+* [Deployment and Operation](./5-additional-considerations/1-deployment-and-operation.md)
+* [Technology Stack](./5-additional-considerations/2-technology-stack.md)
+* [Engineering Practicies](./5-additional-considerations/3-engineering-practices.md)
+* [Minimum Viable Product](./5-additional-considerations/4-minimum-viable-product.md)
 
 ## References
 
-* ...
+* [Architecture Worksheets by Mark Richards](https://www.developertoarchitect.com/resources.html)
+* [Communication Patterns by Jacqui Read](https://learning.oreilly.com/library/view/communication-patterns/9781098140533/)
