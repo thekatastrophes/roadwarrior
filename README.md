@@ -32,11 +32,7 @@ We're the living embodiment of organized chaos – our meetings might seem like 
 * [Actors](./3-solution-design/1-actors.md)
 * [Components](./3-solution-design/2-components.md)
 * [Architecture Design](./3-solution-design/3-architecture.md)
-* [Microservices](./3-solution-design/5-microservices.md)
-* [Event Broker](./3-solution-design/5-event-broker.md)
-* [Data Storage](./3-solution-design/6-data-storage.md)
-* [Front End Technology](./3-solution-design/7-front-end-technology.md)
-* [Security](./3-solution-design/8-security.md)
+* [Security](./3-solution-design/4-security.md)
 
 ### Decision Records
 

@@ -1,6 +1,6 @@
 # Security
 
-[Home](../README.md) > [Solution Design](../README.md#solution-design) > Security ( [Previous](./7-front-end-technology.md) / [Next](../4-decision-records/adr1-use-event-driven-serverless-microservice-architecture.md) )
+[Home](../README.md) > [Solution Design](../README.md#solution-design) > Security ( [Previous](./3-architecture.md) / [Next](../4-decision-records/adr1-use-event-driven-serverless-microservice-architecture.md) )
 
 We have considered the following security principles for our architecture:
 
