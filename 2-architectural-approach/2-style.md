@@ -1,6 +1,6 @@
 # Architectural Style
 
-[Home](../README.md) > [Architectural Approach](../README.md#architectural-approach) > Style ( [Previous](./1-characteristics.md) / [Next](../3-solution-design/1-actors-and-actions.md) )
+[Home](../README.md) > [Architectural Approach](../README.md#architectural-approach) > Architectural Style ( [Previous](./1-characteristics.md) / [Next](../3-solution-design/1-actors-and-actions.md) )
 
 We have based the architectural design of our proposed solution on several key factors that align with the unique characteristics of the startup venture and the product's nature. These factors, in conjunction with our driving architectural characteristics, have steered our decision-making process. 
 Here are the architectural styles we have selected and the additional four factors that have significantly influenced our choice:
