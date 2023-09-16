@@ -7,7 +7,8 @@ Here are the architectural styles we have selected and the additional four facto
 
 ### Architectural Style: Event-Driven Serverless Microservices
 
-- **Evolutionary Architecture:** Our architecture prioritizes adaptability to swift market changes, maintaining agility, and minimizing disruptions during development while providing a strong foundation for growth.
+- **Evolutionary Architecture:** 
+  Our architecture prioritizes adaptability to swift market changes, maintaining agility, and minimizing disruptions during development while providing a strong foundation for growth.
 - **Cloud Native:** We've chosen a cloud-native approach to offer simplicity, scalability, and cost savings, allowing us to focus on our core business and adapt to changing needs without substantial upfront infrastructure investments.
 - **Resource Constraints and Small Team Dynamics:** Emphasizing efficiency and cost-effectiveness for startups, our solution is designed for execution by a compact, skilled team proficient in cross-platform development, optimizing resource utilization for quality product delivery.
 - **Leveraging Established Solutions:** To address resource limitations, we harness well-established technologies and products for non-specialized areas, enabling us to benefit from top-notch solutions like AI frameworks for mail parsing and notification systems without extensive in-house development.
