@@ -1,6 +1,6 @@
 # Components
 
-[Home](../README.md) > [Solution Design](../README.md#solution-design) > Components ( [Previous](./1-actors.md) / [Next](./3-architecture.md) )
+[Home](../README.md) > [Solution Design](../README.md#solution-design) > Components ( [Previous](./1-actors-and-actions.md) / [Next](./3-architecture.md) )
 
 | Component | Description |
 | --------- | ----------- |
