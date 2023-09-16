@@ -7,8 +7,8 @@ Welcome to The Katastrophes team submission to the Road Warrors Kata run by O'Re
 ## Members
 
 * [Sofija Gugoska Babacheska](https://github.com/sofijab)
-* [Filip Dimitrievski](https://github.com/craigguest)
-* Craig Guest
+* Filip Dimitrievski
+* [Craig Guest](https://github.com/craigguest)
 * Chris Dale
 
 ## Solution
