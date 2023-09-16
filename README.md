@@ -36,7 +36,12 @@ Welcome to The Katastrophes team submission to the Road Warrors Kata run by O'Re
 
 ### Decision Records
 
-* ...
+* [ADR1: Use Event Driven Serverless Microservice Architecture](./4-decision-records/adr1-use-event-driven-serverless-microservice-architecture.md)
+* [ADR2: Use an existing email processing service](./4-decision-records/adr2-use-an-existing-email-processing-service.md)
+* [ADR3: Use hybrid technology for mobile app](./4-decision-records/adr3-use-hybrid-technology-for-mobile-app.md)
+* [ADR4: Do not implement shared caching](./4-decision-records/adr4-do-not-implement-shared-caching.md)
+* [ADR5: Use geo-replication](./4-decision-records/adr5-use-geo-replication.md)
+* [ADR6: Use a separate logging component for event correlation](./4-decision-records/adr6-use-a-separate-logging-component-for-event-correlation.md)
 
 ### Additional Considerations
 
