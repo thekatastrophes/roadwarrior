@@ -6,6 +6,8 @@ Welcome to The Katastrophes team submission to the Road Warrors Kata run by O'Re
 
 ## The Team
 
+![Katastrophes logo, with a robot icon.](./assets/the-katastrophes.png)
+
 We are the one-of-a-kind ensemble known as Team Kata-strophes. We're like a puzzle where all the pieces are slightly bent, but miraculously, it still forms a beautiful picture.
 
 We're the living embodiment of organized chaos – our meetings might seem like a rollercoaster ride through a maze of tangents, but we always manage to reach our destination.  You’ll see that being a little dysfunctional can be incredibly functional – and a whole lot of fun!
