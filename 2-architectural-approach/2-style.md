@@ -15,6 +15,6 @@ We prioritize efficiency and cost-effectiveness for startups. Our solution is de
 
 ## Leveraging Established Solutions:
 To address resource limitations, we leverage established technologies and products for non-specialized areas. This allows us to benefit from top-notch solutions like AI frameworks for mail parsing and notification systems without extensive in-house development.
-As an initial design choice, we selected Even Driven Serverless Microservices as an architecture style. The details of our decision are explained in [ADR001]. 
+As an initial design choice, we selected Event Driven Serverless Microservices as an architecture style. The details of our decision are explained in [ADR1: Use Event Driven Serverless Microservice Architecture](./4-decision-records/adr1-use-event-driven-serverless-microservice-architecture.md). 
 
 
