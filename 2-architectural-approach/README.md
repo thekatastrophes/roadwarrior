@@ -1,4 +1,4 @@
-[Home](../README.md) > [Architectural Approach](../README.md#architectural-approach) > Key Requirements ( [Previous](./1-problem-background/1-problem-statement.md) / [Next](./1-characteristics.md) )
+[Home](../README.md) > [Architectural Approach](../README.md#architectural-approach) > Key Requirements ( [Previous](../1-problem-background/1-problem-statement.md) / [Next](./1-characteristics.md) )
 
 # Architectural Approach
 
